@@ -52,9 +52,9 @@ const Contact = () => {
                           <p className="text-sm text-slate-400">Stay connected with EAZEIT on social media.</p>
                       </div>
                       <div className="flex gap-4">
-                          <a href="#" className="w-10 h-10 bg-slate-800 border border-slate-700 rounded-full flex items-center justify-center text-teal-400 hover:bg-teal-400 hover:text-slate-900 transition-colors font-bold text-sm">Fb</a>
-                          <a href="#" className="w-10 h-10 bg-slate-800 border border-slate-700 rounded-full flex items-center justify-center text-teal-400 hover:bg-teal-400 hover:text-slate-900 transition-colors font-bold text-sm">Ig</a>
-                          <a href="#" className="w-10 h-10 bg-slate-800 border border-slate-700 rounded-full flex items-center justify-center text-teal-400 hover:bg-teal-400 hover:text-slate-900 transition-colors font-bold text-sm">Tw</a>
+                          <a href="#!" className="w-10 h-10 bg-slate-800 border border-slate-700 rounded-full flex items-center justify-center text-teal-400 hover:bg-teal-400 hover:text-slate-900 transition-colors font-bold text-sm">Fb</a>
+                          <a href="#!" className="w-10 h-10 bg-slate-800 border border-slate-700 rounded-full flex items-center justify-center text-teal-400 hover:bg-teal-400 hover:text-slate-900 transition-colors font-bold text-sm">Ig</a>
+                          <a href="#!" className="w-10 h-10 bg-slate-800 border border-slate-700 rounded-full flex items-center justify-center text-teal-400 hover:bg-teal-400 hover:text-slate-900 transition-colors font-bold text-sm">Tw</a>
                       </div>
                   </div>
               </div>

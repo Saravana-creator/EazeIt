@@ -16,7 +16,7 @@ const STATIC_PRODUCTS = [
 ];
 
 const CATEGORIES = ['All Products', 'Oral Care', 'Household', 'Bath & Body', 'Food & Snacks'];
-const BRANDS = ['All Brands', 'Colgate', 'Harpic', 'Godrej', 'Others'];
+
 
 const CAT_EMOJI = {
   'Oral Care': '🦷', 'Household': '🧹', 'Bath & Body': '🧼',
